@@ -4,7 +4,7 @@
     padding: 0;
 }
 .text-red{
-    color: red;
+    color: rgb(24, 158, 12);
 }
 .big-heading{
     font-size: 2rem;
@@ -35,6 +35,6 @@
         /* padding: 10%; */
     }
     .text-red{
-        color: rgb(67, 48, 245);
+        color: rgb(206, 105, 10);
     }
 }
